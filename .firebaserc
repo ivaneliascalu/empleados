@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fluttersocialapp-e4292": {
+      "hosting": {
+        "empleados": [
+          "fluttersocialapp-e4292"
+        ]
+      }
+    }
+  }
+}
